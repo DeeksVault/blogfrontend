@@ -1,0 +1,24 @@
+/* JobCard.css */
+.card {
+    width: 5px;
+    height: 5px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px; /* Adjust padding as needed */
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    margin-bottom: 2px; /* Adjust margin as needed */
+  }
+  
+  .card-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px; /* Adjust margin as needed */
+  }
+  
+  .card-info span.separator {
+    margin: 0 2px; /* Adjust margin as needed */
+  }
+  
